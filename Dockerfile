@@ -1,7 +1,7 @@
 FROM phusion/baseimage:latest
 MAINTAINER Jonathon Leight <jonathon.leight@jleight.com>
 
-ENV MONO_VERSION wheezy/snapshots/3.8.0
+ENV MONO_VERSION wheezy/snapshots/3.10.0
 ENV MONO_REPO http://download.mono-project.com/repo/debian
 ENV MONO_APT_LIST /etc/apt/sources.list.d/mono-xamarin.list
 
