@@ -1,5 +1,5 @@
 FROM phusion/baseimage:latest
-MAINTAINER Jonathon Leight <jonathon.leight@jleight.com>
+MAINTAINER Justin Ayers <gizmochief7@gmail.com>
 
 ENV MONO_VERSION wheezy/snapshots/3.12.0
 ENV MONO_REPO http://download.mono-project.com/repo/debian
